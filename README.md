@@ -1,10 +1,10 @@
 # Lab2web
-Buatlah dokumen HTML seperti berikut, selanjutnya simpan dan buka browser untuk melihat hasil
+1. Buatlah dokumen HTML seperti berikut, selanjutnya simpan dan buka browser untuk melihat hasil
 ![css1](https://user-images.githubusercontent.com/56861575/114111775-00aa9e80-9905-11eb-8bb4-47ee17fd979b.JPG)
-Kemudian tambahkan deklarasi CSS internal pada bagian head dokumen, simpan dan refresh browser untuk melihat hasil
+2. Kemudian tambahkan deklarasi CSS internal pada bagian head dokumen, simpan dan refresh browser untuk melihat hasil
 ![css2](https://user-images.githubusercontent.com/56861575/114114126-5afa2e00-990a-11eb-944b-45cd62ea2deb.JPG)
-tambahkan deklarasi inline CSS pada tag <p>, simpan dan refresh browser untuk melihat hasil
-![css3](https://user-images.githubusercontent.com/56861575/114112279-4156e780-9906-11eb-9ca0-817cd949ed76.JPG
+3. tambahkan deklarasi inline CSS pada tag <p>, simpan dan refresh browser untuk melihat hasil
+![css3](https://user-images.githubusercontent.com/56861575/114114256-b6c4b700-990a-11eb-86f4-831ae5b94622.JPG)
 Membuat CSS Eksternal, buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS
 Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>, simpan dan refresh browser untuk melihat hasil
 ![css4](https://user-images.githubusercontent.com/56861575/114112543-cb06b500-9906-11eb-88da-1b10cbb62312.JPG)
