@@ -5,10 +5,10 @@
 ![css2](https://user-images.githubusercontent.com/56861575/114114126-5afa2e00-990a-11eb-944b-45cd62ea2deb.JPG)
 3. tambahkan deklarasi inline CSS pada tag <p>, simpan dan refresh browser untuk melihat hasil
 ![css3](https://user-images.githubusercontent.com/56861575/114114256-b6c4b700-990a-11eb-86f4-831ae5b94622.JPG)
-Membuat CSS Eksternal, buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS
-Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>, simpan dan refresh browser untuk melihat hasil
+4. Membuat CSS Eksternal, buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS
+   Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>, simpan dan refresh browser untuk melihat hasil
 ![css4](https://user-images.githubusercontent.com/56861575/114112543-cb06b500-9906-11eb-88da-1b10cbb62312.JPG)
-Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector.Pada file style_eksternal.css, simpan dan refresh browser untuk melihat hasil
+5. Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector.Pada file style_eksternal.css, simpan dan refresh browser untuk melihat hasil
 ![css5](https://user-images.githubusercontent.com/56861575/114112714-23d64d80-9907-11eb-84d8-02c790c323c5.JPG)
 
 
