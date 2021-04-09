@@ -2,7 +2,7 @@
 Buatlah dokumen HTML seperti berikut, selanjutnya simpan dan buka browser untuk melihat hasil
 ![css1](https://user-images.githubusercontent.com/56861575/114111775-00aa9e80-9905-11eb-8bb4-47ee17fd979b.JPG)
 Kemudian tambahkan deklarasi CSS internal pada bagian head dokumen, simpan dan refresh browser untuk melihat hasil
-![css2](https://user-images.githubusercontent.com/56861575/114112141-f3da7a80-9905-11eb-9b85-40f5f58dcaee.JPG)
+![css2](https://user-images.githubusercontent.com/56861575/114114126-5afa2e00-990a-11eb-944b-45cd62ea2deb.JPG)
 tambahkan deklarasi inline CSS pada tag <p>, simpan dan refresh browser untuk melihat hasil
 ![css3](https://user-images.githubusercontent.com/56861575/114112279-4156e780-9906-11eb-9ca0-817cd949ed76.JPG
 Membuat CSS Eksternal, buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS
